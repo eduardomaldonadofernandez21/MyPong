@@ -43,3 +43,6 @@ A partir de la función draw() llamaremos a una serie de funciones que explicamo
 -	**marcador():** Sitúa un marcador en la zona superior de la pantalla indicando cuantos goles lleva cada jugador.
 
 -	**mitadCampo():** Dibuja la línea discontinua en la mitad de la pantalla que hacer una separación entre ambos campos de cada jugador.
+
+## Descarga e instalación
+Para poder probar MyPong es necesario descargar todos los archivos del repositorio debido a que la carpeta Data contiene las fuentes de las letras utilizadas y los archivos *.wav son los sonidos correspondientes del juego.
