@@ -20,7 +20,9 @@ También se han incluido una serie de sonidos para el choque de las paletas resp
 ![Ejemplo de partida de Pong](/pong_example.gif "Ejemplo de partida de Pong")
 
 ## Organización del código
-Primero establecemos unas variables globales: para la posición de la bola y su movimiento en el ejeX y ejeY, así como las posiciones de las paletas y su tamaño, necesitaremos obtener sus coordenadas. También, establecemos como globales los valores de los marcadores, así como dos variables booleanas que se activará cuando se pausa la partida o se marca un gol para que haya un nuevo saque inicial.
+
+<p style=”text-align: justify;”>Primero establecemos unas variables globales: para la posición de la bola y su movimiento en el ejeX y ejeY, así como las posiciones de las paletas y su tamaño, necesitaremos obtener sus coordenadas. También, establecemos como globales los valores de los marcadores, así como dos variables booleanas que se activará cuando se pausa la partida o se marca un gol para que haya un nuevo saque inicial.</p>
+
 
 En la función setup() establecemos el tamaño de la pantalla, y diversos valores de las variables globales como son coordenadas de los jugadores y la bola, como cargamos los sonidos correspondientes.
 
